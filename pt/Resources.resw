@@ -118,678 +118,679 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="About.Text" xml:space="preserve">
-    <value>About</value>
+    <value>Sobre</value>
   </data>
   <data name="AdverTip1.Text" xml:space="preserve">
-    <value>Advertisement: access to free music</value>
+    <value>Anúncios: acesso gratuito a música</value>
   </data>
   <data name="AdverTip2.Text" xml:space="preserve">
-    <value>Download Musicloud on your device.</value>
+    <value>Baixe o Musicloud no seu dispositivo.</value>
   </data>
   <data name="AllCBI.Content" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="Auto.Content" xml:space="preserve">
     <value>Auto</value>
   </data>
   <data name="AutoSleepMode.Text" xml:space="preserve">
-    <value>Auto sleep</value>
+    <value>Auto-suspensão</value>
   </data>
   <data name="AutoSleepModeTip.Text" xml:space="preserve">
-    <value>After the specific time, the app is automatically closed.</value>
+    <value>Depois do tempo específico, o app é fechado automaticamente.</value>
   </data>
   <data name="BuyingDialog.CloseButtonText" xml:space="preserve">
-    <value>Later</value>
+    <value>Mais tarde</value>
   </data>
   <data name="BuyingDialog.PrimaryButtonText" xml:space="preserve">
-    <value>$12 lifetime</value>
+    <value>€12 vida</value>
   </data>
   <data name="BuyingDialog.SecondaryButtonText" xml:space="preserve">
-    <value>$0.99/month</value>
+    <value>€0,99/mês</value>
   </data>
   <data name="BuyingDiscount.Text" xml:space="preserve">
-    <value>Limited lifetime Plus sale for $5.99</value>
+    <value>Oferta vitalícia limitada Plus por €5.99</value>
   </data>
   <data name="BuyingTip1.Text" xml:space="preserve">
-    <value>Remove advertisements</value>
+    <value>Remover anúncios</value>
   </data>
   <data name="BuyingTip2.Text" xml:space="preserve">
-    <value>IPTV auto sleep mode</value>
+    <value>Modo de auto-suspensão IPTV</value>
   </data>
   <data name="BuyingTip3.Text" xml:space="preserve">
-    <value>Favorite channels</value>
+    <value>Canais favoritos</value>
   </data>
   <data name="BuyingTip4.Text" xml:space="preserve">
-    <value>Get more upcoming features</value>
+    <value>Obtenha mais próximas funcionalidades</value>
   </data>
   <data name="Cancel.Text" xml:space="preserve">
-    <value>CANCEL</value>
+    <value>Cancelar</value>
   </data>
   <data name="ChangeLanguage.Text" xml:space="preserve">
-    <value>Change language</value>
+    <value>Mudar o idioma</value>
   </data>
   <data name="ChangeLanguageTip.Text" xml:space="preserve">
-    <value>Change app language other than system language.</value>
+    <value>Alterar idioma do aplicativo para além do idioma do sistema.</value>
   </data>
   <data name="ChannelInfo.Text" xml:space="preserve">
-    <value>Channel Information</value>
+    <value>Informações do canal</value>
   </data>
   <data name="Channels.Text" xml:space="preserve">
-    <value>Channels</value>
+    <value>Canais</value>
   </data>
   <data name="ChannelsContent.Content" xml:space="preserve">
-    <value>Channels</value>
+    <value>Canais</value>
   </data>
   <data name="ChannelsTip.Text" xml:space="preserve">
-    <value>Please enter the IPTV list URL on the left</value>
+    <value>Digite o URL da lista de IPTV à esquerda</value>
   </data>
   <data name="Checking.Text" xml:space="preserve">
-    <value>Checking...</value>
+    <value>Verificando...</value>
   </data>
   <data name="CheckUpdate.Text" xml:space="preserve">
-    <value>Check for updates</value>
+    <value>Verificar atualização</value>
   </data>
   <data name="ConfirmTip.Text" xml:space="preserve">
-    <value>Local channel list will be delete permanently.</value>
+    <value>A lista de canais locais será excluída permanentemente.</value>
   </data>
   <data name="ConfirmTitle.Text" xml:space="preserve">
-    <value>Are you sure?</value>
+    <value>Você tem certeza?</value>
   </data>
   <data name="Copy.Text" xml:space="preserve">
-    <value>Copy</value>
+    <value>Copiar</value>
   </data>
   <data name="Dark.Content" xml:space="preserve">
-    <value>Dark</value>
+    <value>Escuro</value>
   </data>
   <data name="Delete.Text" xml:space="preserve">
-    <value>Delete</value>
+    <value>Apagar</value>
   </data>
   <data name="DisableCBI.Content" xml:space="preserve">
-    <value>Disable</value>
+    <value>Desativar</value>
   </data>
   <data name="EmailDeveloper.Text" xml:space="preserve">
-    <value>Email developer</value>
+    <value>E-mail do desenvolvedor</value>
   </data>
   <data name="Fullscreen.Content" xml:space="preserve">
-    <value>Fullscreen</value>
+    <value>Ecrã Completo</value>
   </data>
   <data name="General.Text" xml:space="preserve">
-    <value>General</value>
+    <value>Geral</value>
   </data>
   <data name="IPTVPlus.Text" xml:space="preserve">
     <value>IPTV Plus</value>
   </data>
   <data name="IPTVPlusTip.Text" xml:space="preserve">
-    <value>By subscribing PLUS you will be able to:</value>
+    <value>Ao assinar o PLUS, você será capaz de:</value>
   </data>
   <data name="Library.Text" xml:space="preserve">
-    <value>Library</value>
+    <value>Biblioteca</value>
   </data>
   <data name="LibraryContent.Content" xml:space="preserve">
-    <value>Library</value>
+    <value>Biblioteca</value>
   </data>
   <data name="Light.Content" xml:space="preserve">
-    <value>Light</value>
+    <value>Claro</value>
   </data>
   <data name="LiveTV.Content" xml:space="preserve">
-    <value>Live TV</value>
+    <value>TV em direto</value>
   </data>
   <data name="LogoDB.Text" xml:space="preserve">
-    <value>Logo designed by</value>
+    <value>Logotipo criado por</value>
   </data>
   <data name="Love.Text" xml:space="preserve">
-    <value>Love</value>
+    <value>Amor</value>
   </data>
   <data name="MoreInfo.Text" xml:space="preserve">
-    <value>More info</value>
+    <value>Mais informações</value>
   </data>
   <data name="Ok.Text" xml:space="preserve">
-    <value>OK</value>
+    <value>Ok</value>
   </data>
   <data name="OpenFile.Text" xml:space="preserve">
-    <value>Add from File</value>
+    <value>Adicionar arquivo</value>
   </data>
   <data name="PasteText.Text" xml:space="preserve">
-    <value>Add from Text</value>
+    <value>Importar via texto</value>
   </data>
   <data name="PintoStart.Text" xml:space="preserve">
-    <value>Pin to start</value>
+    <value>Afixar ao início</value>
   </data>
   <data name="PintoTaskbar.Text" xml:space="preserve">
-    <value>Pin to taskbar</value>
+    <value>Pino para Barra de Tarefas</value>
   </data>
   <data name="Play.Text" xml:space="preserve">
-    <value>Play</value>
+    <value>Tocar</value>
   </data>
   <data name="Playback.Text" xml:space="preserve">
-    <value>Playback</value>
+    <value>Reprodução</value>
   </data>
   <data name="PlaybackEngine.Text" xml:space="preserve">
-    <value>Playback engine</value>
+    <value>Mecanismo de reprodução</value>
   </data>
   <data name="Playlist.Text" xml:space="preserve">
     <value>Playlist</value>
   </data>
   <data name="ProUser.Text" xml:space="preserve">
-    <value>Pro user</value>
+    <value>Utilizador Pro</value>
   </data>
   <data name="Purchase.Text" xml:space="preserve">
-    <value>Purchase pro</value>
+    <value>Comprar versão Pro</value>
   </data>
   <data name="PurchaseLifetime.Text" xml:space="preserve">
-    <value>Purchase $12.00</value>
+    <value>Compre €12,00</value>
   </data>
   <data name="PurchaseLifetimeTip.Text" xml:space="preserve">
-    <value>One-time charge to unlock plus feature.</value>
+    <value>Cobrança única para desbloquear o recurso Pro.</value>
   </data>
   <data name="PurchaseTip.Text" xml:space="preserve">
-    <value>Unlock pro feature.</value>
+    <value>Desbloquear Funcionalidades Pro.</value>
   </data>
   <data name="Rate.Text" xml:space="preserve">
-    <value>Rate</value>
+    <value>Taxa</value>
   </data>
   <data name="Resets.Content" xml:space="preserve">
-    <value>Reset App</value>
+    <value>Redefinir o App</value>
   </data>
   <data name="RestartApp.Text" xml:space="preserve">
-    <value>Restart app</value>
+    <value>Reiniciar aplicação</value>
   </data>
   <data name="RestartAppTip.Text" xml:space="preserve">
-    <value>Restart app to take effect.</value>
+    <value>Reiniciar a aplicação para ter efeito.</value>
   </data>
   <data name="Retreive.Text" xml:space="preserve">
-    <value>RETRIEVE</value>
+    <value>Recuperar</value>
   </data>
   <data name="RetreiveTip.Text" xml:space="preserve">
-    <value>Input the string here...</value>
+    <value>Insira a string aqui...</value>
   </data>
   <data name="Search.PlaceholderText" xml:space="preserve">
-    <value>Playlist URL (M3U, M3U8)</value>
+    <value>URL da playlist (m3u, m3u8)</value>
   </data>
   <data name="SearchEpisodeBox.PlaceholderText" xml:space="preserve">
-    <value>Search channel</value>
+    <value>Procurar canal</value>
   </data>
   <data name="Settings.Text" xml:space="preserve">
-    <value>Settings</value>
+    <value>Configurações</value>
   </data>
   <data name="Streaming.Text" xml:space="preserve">
-    <value>streaming...</value>
+    <value>transmitindo...</value>
   </data>
   <data name="SubsButtonText.Text" xml:space="preserve">
-    <value>Subscribe $0.99</value>
+    <value>Inscreva-se €0,99</value>
   </data>
   <data name="SubsButtonTipText.Text" xml:space="preserve">
-    <value>Recurring charge every month.</value>
+    <value>Cobrança recorrente todo mês.</value>
   </data>
   <data name="Subscribed.Text" xml:space="preserve">
-    <value>Subscribed</value>
+    <value>Subscrito</value>
   </data>
   <data name="SubscribedTip.Text" xml:space="preserve">
-    <value>Manage your subscription, or cancel monthly plus subscription</value>
+    <value>Gerencie sua assinatura ou cancele assinatura mensal mais</value>
   </data>
   <data name="SubsTip.Text" xml:space="preserve">
-    <value>Purchase or subscribe plus feature to unlock.</value>
+    <value>Comprar ou assinar mais recurso para desbloquear.</value>
   </data>
   <data name="System.Content" xml:space="preserve">
-    <value>System</value>
+    <value>Sistema</value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
-    <value>Theme</value>
+    <value>Tema</value>
   </data>
   <data name="TipTextBlock.Text" xml:space="preserve">
-    <value>Please enter an M3U link on the left or select a channel from the list</value>
+    <value>Por favor, insira o link m3u à esquerda
+ou selecione qualquer canal nos canais</value>
   </data>
   <data name="UpdateAvailable.Text" xml:space="preserve">
-    <value>Update available</value>
+    <value>Atualização disponível</value>
   </data>
   <data name="UpdateTip.Text" xml:space="preserve">
-    <value>Do you wish to update the app right now?</value>
+    <value>Deseja atualizar o app agora?</value>
   </data>
   <data name="UpToDate.Text" xml:space="preserve">
     <value>No update available</value>
   </data>
   <data name="Version.Text" xml:space="preserve">
-    <value>Version</value>
+    <value>Versão</value>
   </data>
   <data name="UrlNotValid.Text" xml:space="preserve">
-    <value>URL is not valid</value>
+    <value>O URL não é válido</value>
   </data>
   <data name="GamepadControl.Text" xml:space="preserve">
-    <value>Gamepad control</value>
+    <value>Controle do Controle</value>
   </data>
   <data name="GamepadControlTip.Text" xml:space="preserve">
-    <value>Enable gamepad instead of simulated mouse cursor.</value>
+    <value>Habilitar controle ao invés do cursor simulado do mouse.</value>
   </data>
   <data name="Rename.Text" xml:space="preserve">
-    <value>Rename</value>
+    <value>Renomear</value>
   </data>
   <data name="Favorites.Text" xml:space="preserve">
-    <value>Favorites</value>
+    <value>Favoritos</value>
   </data>
   <data name="Open.Text" xml:space="preserve">
-    <value>Open</value>
+    <value>Abrir</value>
   </data>
   <data name="ChannelsHeader.Header" xml:space="preserve">
-    <value>Channels</value>
+    <value>Canais</value>
   </data>
   <data name="EPG.Text" xml:space="preserve">
-    <value>Electronic program guide</value>
+    <value>Guia do programa eletrônico</value>
   </data>
   <data name="EPGTip.Text" xml:space="preserve">
-    <value>Input xml url to retrieve channel's upcoming shows.</value>
+    <value>Url de entrada xml para recuperar séries futuras do canal.</value>
   </data>
   <data name="TVGuide.Header" xml:space="preserve">
-    <value>TV Guide</value>
+    <value>Guia de TV</value>
   </data>
   <data name="Record.Content" xml:space="preserve">
-    <value>Record</value>
+    <value>Gravação</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
-    <value>Recording</value>
+    <value>Gravação</value>
   </data>
   <data name="Saving.Text" xml:space="preserve">
-    <value>Saving...</value>
+    <value>Salvando...</value>
   </data>
   <data name="RecordVideo.Text" xml:space="preserve">
-    <value>Record video</value>
+    <value>Gravar vídeo</value>
   </data>
   <data name="RecordVideoTip.Text" xml:space="preserve">
-    <value>The recording is for you own personal use (no audio).</value>
+    <value>A gravação é para seu próprio uso pessoal (sem áudio).</value>
   </data>
   <data name="LaunchMenu.Text" xml:space="preserve">
-    <value>Launch menu</value>
+    <value>Menu de inicialização</value>
   </data>
   <data name="LaunchMenuTip.Text" xml:space="preserve">
-    <value>Change default menu while launching the app.</value>
+    <value>Alterar o menu padrão ao iniciar o aplicativo.</value>
   </data>
   <data name="Miracast.Text" xml:space="preserve">
-    <value>Mirror cast</value>
+    <value>Transmissão do espelho</value>
   </data>
   <data name="Original.Text" xml:space="preserve">
     <value>Original</value>
   </data>
   <data name="Playbackspeed.Text" xml:space="preserve">
-    <value>Playback speed</value>
+    <value>Velocidade de reprodução</value>
   </data>
   <data name="Snapshot.Text" xml:space="preserve">
-    <value>Take screenshot</value>
+    <value>Capturar ecrã</value>
   </data>
   <data name="Videoratio.Text" xml:space="preserve">
-    <value>Video ratio</value>
+    <value>Relação de vídeo</value>
   </data>
   <data name="AuthenticateFailed" xml:space="preserve">
-    <value>Authenticate failed</value>
+    <value>A autenticação falhou</value>
   </data>
   <data name="Download.Text" xml:space="preserve">
-    <value>Download</value>
+    <value>Baixar</value>
   </data>
   <data name="Downloaded" xml:space="preserve">
-    <value>Downloaded</value>
+    <value>Baixado</value>
   </data>
   <data name="Downloading" xml:space="preserve">
-    <value>Downloading</value>
+    <value>A transferir</value>
   </data>
   <data name="DownloadTipText.Text" xml:space="preserve">
-    <value>Download loved channels list via OneDrive.</value>
+    <value>Baixar lista de canais favoritos via OneDrive.</value>
   </data>
   <data name="Syncing" xml:space="preserve">
-    <value>Syncing</value>
+    <value>Sincronizando</value>
   </data>
   <data name="Upload.Text" xml:space="preserve">
-    <value>Upload</value>
+    <value>Carregar</value>
   </data>
   <data name="Uploaded" xml:space="preserve">
-    <value>Uploaded</value>
+    <value>Carregado</value>
   </data>
   <data name="Uploading" xml:space="preserve">
-    <value>Uploading</value>
+    <value>Carregar</value>
   </data>
   <data name="UploadTipText.Text" xml:space="preserve">
-    <value>Upload loved channels list via OneDrive.</value>
+    <value>Carregar lista de canais favoritos via OneDrive.</value>
   </data>
   <data name="Sync.Text" xml:space="preserve">
-    <value>Sync</value>
+    <value>Sincronização</value>
   </data>
   <data name="RestorePurchaseContent.Content" xml:space="preserve">
-    <value>Restore Purchase</value>
+    <value>Restaurar Compra</value>
   </data>
   <data name="TutorialHyperlink.Content" xml:space="preserve">
-    <value>How to get M3U link?</value>
+    <value>Como obter o link m3u?</value>
   </data>
   <data name="TheatreMode.Text" xml:space="preserve">
-    <value>Theatre mode</value>
+    <value>Modo de cinema</value>
   </data>
   <data name="AppNames" xml:space="preserve">
     <value>IPTV Fluent</value>
   </data>
   <data name="CheckConnection.Text" xml:space="preserve">
-    <value>Check connection</value>
+    <value>Verifique a conexão</value>
   </data>
   <data name="SaveList.Text" xml:space="preserve">
-    <value>Save list</value>
+    <value>Salvar lista</value>
   </data>
   <data name="VideoInfo.Text" xml:space="preserve">
-    <value>Video info</value>
+    <value>Informação de vídeo</value>
   </data>
   <data name="AddChannel.Text" xml:space="preserve">
-    <value>Add channel</value>
+    <value>Adicionar canal</value>
   </data>
   <data name="CreateList.Text" xml:space="preserve">
-    <value>Create List</value>
+    <value>Criar lista</value>
   </data>
   <data name="Clear.Content" xml:space="preserve">
-    <value>Clear</value>
+    <value>Limpar</value>
   </data>
   <data name="DeleteSelectedChannel.Label" xml:space="preserve">
-    <value>Delete</value>
+    <value>Apagar</value>
   </data>
   <data name="LoveChannel.Label" xml:space="preserve">
-    <value>Love</value>
+    <value>Amor</value>
   </data>
   <data name="Select.Text" xml:space="preserve">
-    <value>Select</value>
+    <value>Vybrat</value>
   </data>
   <data name="SelectAll.Label" xml:space="preserve">
-    <value>Select all</value>
+    <value>Selecionar todos</value>
   </data>
   <data name="ShareApp.Content" xml:space="preserve">
-    <value>Share the app with Friends</value>
+    <value>Partilhar Aplicação</value>
   </data>
   <data name="ExportList.Text" xml:space="preserve">
-    <value>Export list</value>
+    <value>Exportar lista</value>
   </data>
   <data name="LocalList.Text" xml:space="preserve">
-    <value>Local List</value>
+    <value>Lista de linguagens</value>
   </data>
   <data name="OnlineList.Text" xml:space="preserve">
-    <value>Online List</value>
+    <value>Lista online</value>
   </data>
   <data name="BuyingTip5.Text" xml:space="preserve">
-    <value>Save multiple online lists</value>
+    <value>Salvar múltiplas listas online</value>
   </data>
   <data name="AddTo.Text" xml:space="preserve">
-    <value>Add to...</value>
+    <value>Adicionar a...</value>
   </data>
   <data name="Explore.Text" xml:space="preserve">
-    <value>Explore</value>
+    <value>Explorar</value>
   </data>
   <data name="Local.Text" xml:space="preserve">
     <value>Local</value>
   </data>
   <data name="LocalTip.Text" xml:space="preserve">
-    <value>Customize your own list</value>
+    <value>Personalize sua própria lista</value>
   </data>
   <data name="Online.Text" xml:space="preserve">
-    <value>Online</value>
+    <value>On-line</value>
   </data>
   <data name="OnlineTip.Text" xml:space="preserve">
-    <value>Continuously updated list</value>
+    <value>Lista atualizada continuamente</value>
   </data>
   <data name="WatchNow.Text" xml:space="preserve">
-    <value>Watch Now</value>
+    <value>Assista Agora</value>
   </data>
   <data name="FaoritesTip.Text" xml:space="preserve">
-    <value>Best channels chosen by you.</value>
+    <value>Melhores canais escolhidos por você.</value>
   </data>
   <data name="Grid.Text" xml:space="preserve">
-    <value>Grid</value>
+    <value>Grelha</value>
   </data>
   <data name="Hotkeys.Content" xml:space="preserve">
-    <value>Hotkeys</value>
+    <value>Teclas de Atalho</value>
   </data>
   <data name="List.Text" xml:space="preserve">
-    <value>List</value>
+    <value>Lista</value>
   </data>
   <data name="OnlineURL.Text" xml:space="preserve">
-    <value>Online URL</value>
+    <value>URL online</value>
   </data>
   <data name="OnlineURLTip.Text" xml:space="preserve">
-    <value>Daily list by you.</value>
+    <value>Lista diária da sua parte.</value>
   </data>
   <data name="Refresh.Text" xml:space="preserve">
-    <value>Refresh</value>
+    <value>Atualizar</value>
   </data>
   <data name="WhatsInPlus.Content" xml:space="preserve">
-    <value>What's in PLUS</value>
+    <value>O que há em Pro</value>
   </data>
   <data name="ChannelLabel.Label" xml:space="preserve">
-    <value>Channel</value>
+    <value>Canal</value>
   </data>
   <data name="EPGLabel.Label" xml:space="preserve">
     <value>EPG</value>
   </data>
   <data name="Property.Label" xml:space="preserve">
-    <value>Property</value>
+    <value>Proprie...</value>
   </data>
   <data name="SearchLabel.Label" xml:space="preserve">
-    <value>Search</value>
+    <value>Procurar</value>
   </data>
   <data name="HardwareDecode.Text" xml:space="preserve">
-    <value>Hardware decode</value>
+    <value>Descodificador por hardware</value>
   </data>
   <data name="ExitFullscreen.Text" xml:space="preserve">
-    <value>Exit fullscreen</value>
+    <value>Sair do Ecrã inteiro</value>
   </data>
   <data name="AutoDetectLatency.Text" xml:space="preserve">
-    <value>Auto detect latency</value>
+    <value>Auto detectar latência</value>
   </data>
   <data name="AutoDetectLatencyTip.Text" xml:space="preserve">
-    <value>Unresponsive channels will auto hide after loading online list.</value>
+    <value>Canais sem resposta serão ocultados automaticamente após o carregamento da lista online.</value>
   </data>
   <data name="DefaultListView.Text" xml:space="preserve">
-    <value>Default list view</value>
+    <value>Visualização padrão de lista</value>
   </data>
   <data name="AddSubtitle.Text" xml:space="preserve">
-    <value>Import subtitle</value>
+    <value>Importar a Legenda</value>
   </data>
   <data name="Audio.Text" xml:space="preserve">
-    <value>Audio</value>
+    <value>Áudio</value>
   </data>
   <data name="ChangeSubtitle.Text" xml:space="preserve">
-    <value>Change subtitle</value>
+    <value>Alterar legenda</value>
   </data>
   <data name="ChangeTrack.Text" xml:space="preserve">
-    <value>Change track</value>
+    <value>Alterar faixa</value>
   </data>
   <data name="Genre.PlaceholderText" xml:space="preserve">
-    <value>Genre</value>
+    <value>Género</value>
   </data>
   <data name="LocalSubtitle.Text" xml:space="preserve">
-    <value>Local subtitle</value>
+    <value>Legendas locais</value>
   </data>
   <data name="MadeWithBy.Text" xml:space="preserve">
-    <value>Designed and coded by</value>
+    <value>Concebido e desenvolvido por</value>
   </data>
   <data name="OnlineSubtitle.Text" xml:space="preserve">
-    <value>Online subtitle</value>
+    <value>Legendas online</value>
   </data>
   <data name="OpenURL.Text" xml:space="preserve">
-    <value>Open URL</value>
+    <value>Abrir URL</value>
   </data>
   <data name="ResultsPerPage.Text" xml:space="preserve">
-    <value>Results/Page</value>
+    <value>Resultados/página</value>
   </data>
   <data name="Subtitle.Text" xml:space="preserve">
-    <value>Subtitle</value>
+    <value>Subtítulo</value>
   </data>
   <data name="Video.Text" xml:space="preserve">
-    <value>Video</value>
+    <value>Vídeo</value>
   </data>
   <data name="AddToLabel.Label" xml:space="preserve">
-    <value>Add to...</value>
+    <value>Adicionar a...</value>
   </data>
   <data name="Programs.Content" xml:space="preserve">
-    <value>Programs</value>
+    <value>Programas</value>
   </data>
   <data name="Nolocallistfound.Text" xml:space="preserve">
-    <value>No local list found</value>
+    <value>Nenhuma lista local encontrada</value>
   </data>
   <data name="Link.Text" xml:space="preserve">
     <value>Link</value>
   </data>
   <data name="EveryDay.Content" xml:space="preserve">
-    <value>Every day</value>
+    <value>Todos os Dias</value>
   </data>
   <data name="EveryTime.Content" xml:space="preserve">
-    <value>Every time</value>
+    <value>Sempre</value>
   </data>
   <data name="Never.Content" xml:space="preserve">
-    <value>Never</value>
+    <value>Nunca</value>
   </data>
   <data name="UpdateFrequency.Text" xml:space="preserve">
-    <value>Update frequency</value>
+    <value>Frequência de atualização</value>
   </data>
   <data name="UpdateFrequencyTip.Text" xml:space="preserve">
-    <value>Online list retrieve behavior.</value>
+    <value>Comportamento de recuperação da lista online.</value>
   </data>
   <data name="Export.Label" xml:space="preserve">
-    <value>Export</value>
+    <value>Exportar</value>
   </data>
   <data name="Edit.Text" xml:space="preserve">
-    <value>Edit</value>
+    <value>Editar</value>
   </data>
   <data name="More.Text" xml:space="preserve">
-    <value>More</value>
+    <value>Mais</value>
   </data>
   <data name="OpenLocalVideo.Text" xml:space="preserve">
-    <value>Open local video</value>
+    <value>Abrir vídeo local</value>
   </data>
   <data name="MediaServersVideo.Text" xml:space="preserve">
-    <value>Media servers video</value>
+    <value>Vídeo de servidores de mídia</value>
   </data>
   <data name="ChangeDList.Text" xml:space="preserve">
-    <value>Change default list</value>
+    <value>Alterar lista padrão</value>
   </data>
   <data name="ChangeDListTip.Text" xml:space="preserve">
-    <value>Input online M3U link.</value>
+    <value>Insira o link m3u online.</value>
   </data>
   <data name="ProfileName.Text" xml:space="preserve">
-    <value>Profile name</value>
+    <value>Nome do perfil</value>
   </data>
   <data name="ServerAddress.Text" xml:space="preserve">
-    <value>Server address</value>
+    <value>Endereço do servidor</value>
   </data>
   <data name="Username.Text" xml:space="preserve">
-    <value>Username</value>
+    <value>Nome de utilizador</value>
   </data>
   <data name="Password.Text" xml:space="preserve">
-    <value>Password</value>
+    <value>Palavra-passe</value>
   </data>
   <data name="MacAddress.Text" xml:space="preserve">
-    <value>Mac address</value>
+    <value>Endereço MAC</value>
   </data>
   <data name="InputSourceName.PlaceholderText" xml:space="preserve">
-    <value>Input your source name(optional)</value>
+    <value>Insira seu nome de origem (opcional)</value>
   </data>
   <data name="UsernamePHT.PlaceholderText" xml:space="preserve">
-    <value>Please input your username</value>
+    <value>Por favor, insira seu nome de usuário!</value>
   </data>
   <data name="PasswordPHT.PlaceholderText" xml:space="preserve">
-    <value>Please input your password</value>
+    <value>Por favor introduza a sua palavra-passe</value>
   </data>
   <data name="All.Text" xml:space="preserve">
-    <value>All</value>
+    <value>Todos</value>
   </data>
   <data name="Today.Text" xml:space="preserve">
-    <value>Today</value>
+    <value>Hoje</value>
   </data>
   <data name="GenreText.Text" xml:space="preserve">
-    <value>Genre</value>
+    <value>Género</value>
   </data>
   <data name="Mobile.Content" xml:space="preserve">
-    <value>Mobile</value>
+    <value>Móvel</value>
   </data>
   <data name="MediaHubContent.Content" xml:space="preserve">
-    <value>Media Hub</value>
+    <value>Centro de mídia</value>
   </data>
   <data name="MediaHub.Text" xml:space="preserve">
-    <value>Media Hub</value>
+    <value>Centro de mídia</value>
   </data>
   <data name="MediaSource.Text" xml:space="preserve">
-    <value>Media Source</value>
+    <value>Fonte de mídia</value>
   </data>
   <data name="LocalSource.Text" xml:space="preserve">
-    <value>Local Source</value>
+    <value>Fonte Local</value>
   </data>
   <data name="CreateMediaSource.Text" xml:space="preserve">
-    <value>Create a media source</value>
+    <value>Criar uma fonte de mídia</value>
   </data>
   <data name="CreateMediaSourceTip.Text" xml:space="preserve">
-    <value>Play any video via media servers or local storage.</value>
+    <value>Reproduzir qualquer vídeo via servidores de mídia ou armazenamento local.</value>
   </data>
   <data name="StreamSource.Text" xml:space="preserve">
-    <value>Stream Source</value>
+    <value>Fonte de transmissão</value>
   </data>
   <data name="MediaSourceTip.Text" xml:space="preserve">
-    <value>Play videos in the media servers</value>
+    <value>Reproduzir vídeos nos servidores de mídia</value>
   </data>
   <data name="LocalVideo.Text" xml:space="preserve">
-    <value>Local Video</value>
+    <value>Dispositivo</value>
   </data>
   <data name="NoStreamSourceFound.Text" xml:space="preserve">
-    <value>No stream source found</value>
+    <value>Nenhuma fonte de fluxo encontrada</value>
   </data>
   <data name="VLCPanelLocation.Text" xml:space="preserve">
-    <value>VLC panel location</value>
+    <value>Localização do painel VLC</value>
   </data>
   <data name="VLCPanelLocationTip.Text" xml:space="preserve">
-    <value>Video control dock at the bottom.</value>
+    <value>Doca de controle de vídeo na parte inferior</value>
   </data>
   <data name="DisableTapToPause.Text" xml:space="preserve">
-    <value>Disable tap to pause</value>
+    <value>Desativar toque para pausar</value>
   </data>
   <data name="DisableTapToPauseTip.Text" xml:space="preserve">
-    <value>Disable tap anywhere to pause or resume the stream.</value>
+    <value>Desative toque em qualquer lugar para pausar ou continuar a transmissão.</value>
   </data>
   <data name="BottomContent.Content" xml:space="preserve">
     <value>Bottom</value>
   </data>
   <data name="AudioOffset.Text" xml:space="preserve">
-    <value>Audio offset</value>
+    <value>Corrigir sincronização do áudio</value>
   </data>
   <data name="SubtitleOffset.Text" xml:space="preserve">
-    <value>Subtitle offset</value>
+    <value>Correção de legendas</value>
   </data>
   <data name="NetworkShares.Text" xml:space="preserve">
-    <value>Network Shares</value>
+    <value>Partilhas de Rede</value>
   </data>
   <data name="MediaServers.Text" xml:space="preserve">
-    <value>Media Servers</value>
+    <value>Servidores de Mídia</value>
   </data>
   <data name="EveryMonth.Content" xml:space="preserve">
-    <value>Every month</value>
+    <value>A cada mês</value>
   </data>
   <data name="CastAndCrew.Text" xml:space="preserve">
-    <value>Cast and Crew</value>
+    <value>Elenco e Equipa</value>
   </data>
   <data name="MediaInformation.Text" xml:space="preserve">
-    <value>Media information</value>
+    <value>Informações de mídia</value>
   </data>
   <data name="Episodes.Text" xml:space="preserve">
-    <value>Episodes</value>
+    <value>Episódios</value>
   </data>
   <data name="LiveTVText.Text" xml:space="preserve">
-    <value>Live TV</value>
+    <value>TV em direto</value>
   </data>
   <data name="Videos.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>Vídeos</value>
   </data>
   <data name="Season.Text" xml:space="preserve">
-    <value>Season</value>
+    <value>Temporada</value>
   </data>
   <data name="BigPictureContent.Content" xml:space="preserve">
-    <value>Big Picture</value>
+    <value>Tela grande</value>
   </data>
   <data name="OpenWith.Text" xml:space="preserve">
-    <value>Open with...</value>
+    <value>Abrir Com...</value>
   </data>
   <data name="Share.Text" xml:space="preserve">
-    <value>Share</value>
+    <value>Compartilhar</value>
   </data>
   <data name="TranscodingOptions.Text" xml:space="preserve">
-    <value>Transcoding options</value>
+    <value>Opções de transcodificação</value>
   </data>
   <data name="ModifyWall.Text" xml:space="preserve">
-    <value>Modify Wall</value>
+    <value>Modificar parede</value>
   </data>
 </root>
