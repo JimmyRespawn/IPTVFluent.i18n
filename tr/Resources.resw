@@ -733,7 +733,7 @@
     <value>VLC panel location</value>
   </data>
   <data name="VLCPanelLocationTip.Text" xml:space="preserve">
-    <value>Video control dock at the bottom</value>
+    <value>Video control dock at the bottom.</value>
   </data>
   <data name="DisableTapToPause.Text" xml:space="preserve">
     <value>Disable tap to pause</value>
