@@ -793,4 +793,7 @@ o seleziona qualsiasi canale nei canali</value>
   <data name="ModifyWall.Text" xml:space="preserve">
     <value>Modifica Muro</value>
   </data>
+  <data name="RemoteControl.Text" xml:space="preserve">
+    <value>Remote control</value>
+  </data>
 </root>
