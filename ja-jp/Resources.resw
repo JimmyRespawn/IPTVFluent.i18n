@@ -793,4 +793,7 @@
   <data name="ModifyWall.Text" xml:space="preserve">
     <value>壁を変更</value>
   </data>
+  <data name="RemoteControl.Text" xml:space="preserve">
+    <value>Remote control</value>
+  </data>
 </root>
