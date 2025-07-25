@@ -793,4 +793,7 @@ ou sélectionner n'importe quelle chaîne dans le panneau "Chaînes"</value>
   <data name="ModifyWall.Text" xml:space="preserve">
     <value>Modifier le Mur</value>
   </data>
+  <data name="RemoteControl.Text" xml:space="preserve">
+    <value>Remote control</value>
+  </data>
 </root>
