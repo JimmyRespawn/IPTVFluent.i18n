@@ -793,4 +793,7 @@ of selecteer een kanaal in kanalen</value>
   <data name="ModifyWall.Text" xml:space="preserve">
     <value>Muur aanpassen</value>
   </data>
+  <data name="RemoteControl.Text" xml:space="preserve">
+    <value>Remote control</value>
+  </data>
 </root>
