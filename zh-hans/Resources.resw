@@ -793,4 +793,7 @@
   <data name="ModifyWall.Text" xml:space="preserve">
     <value>设置分类</value>
   </data>
+  <data name="RemoteControl.Text" xml:space="preserve">
+    <value>遥控器</value>
+  </data>
 </root>
