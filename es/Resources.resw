@@ -792,4 +792,7 @@
   <data name="ModifyWall.Text" xml:space="preserve">
     <value>Modificar pared</value>
   </data>
+  <data name="RemoteControl.Text" xml:space="preserve">
+    <value>Remote control</value>
+  </data>
 </root>
