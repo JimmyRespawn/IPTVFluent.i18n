@@ -142,10 +142,10 @@
     <value>Позже</value>
   </data>
   <data name="BuyingDialog.PrimaryButtonText" xml:space="preserve">
-    <value>$12 время жизни</value>
+    <value>Rub 950 время жизни</value>
   </data>
   <data name="BuyingDialog.SecondaryButtonText" xml:space="preserve">
-    <value>$0.99/месяц</value>
+    <value>Rub 79/месяц</value>
   </data>
   <data name="BuyingDiscount.Text" xml:space="preserve">
     <value>Ограниченное время работы плюс за $5,99</value>
@@ -277,7 +277,7 @@
     <value>Приобрести версию Pro</value>
   </data>
   <data name="PurchaseLifetime.Text" xml:space="preserve">
-    <value>Купить $12.00</value>
+    <value>Купить Rub 950</value>
   </data>
   <data name="PurchaseLifetimeTip.Text" xml:space="preserve">
     <value>Одноразовый заряд для разблокировки Pro функции.</value>
@@ -316,10 +316,10 @@
     <value>стриминг...</value>
   </data>
   <data name="SubsButtonText.Text" xml:space="preserve">
-    <value>Подписаться $0.99</value>
+    <value>Подписаться Rub 79</value>
   </data>
   <data name="SubsButtonTipText.Text" xml:space="preserve">
-    <value>Периодическая оплата каждый месяц.</value>
+    <value>Пожалуйста, свяжитесь с застройщиком, эта зона недоступна.</value>
   </data>
   <data name="Subscribed.Text" xml:space="preserve">
     <value>Подписаны</value>
@@ -455,7 +455,7 @@
     <value>Восстановить покупки</value>
   </data>
   <data name="TutorialHyperlink.Content" xml:space="preserve">
-    <value>How to get M3U link?</value>
+    <value>Как получить ссылку?</value>
   </data>
   <data name="TheatreMode.Text" xml:space="preserve">
     <value>Режим театра</value>
@@ -758,42 +758,42 @@
     <value>Медиасерверы</value>
   </data>
   <data name="EveryMonth.Content" xml:space="preserve">
-    <value>Every month</value>
+    <value>Каждый месяц</value>
   </data>
   <data name="CastAndCrew.Text" xml:space="preserve">
-    <value>Cast and Crew</value>
+    <value>Трансляция и банда</value>
   </data>
   <data name="MediaInformation.Text" xml:space="preserve">
-    <value>Media information</value>
+    <value>Информация о медиа</value>
   </data>
   <data name="Episodes.Text" xml:space="preserve">
-    <value>Episodes</value>
+    <value>Эпизоды</value>
   </data>
   <data name="LiveTVText.Text" xml:space="preserve">
     <value>Live TV</value>
   </data>
   <data name="Videos.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>Видео</value>
   </data>
   <data name="Season.Text" xml:space="preserve">
-    <value>Season</value>
+    <value>Сезон</value>
   </data>
   <data name="BigPictureContent.Content" xml:space="preserve">
-    <value>Big Picture</value>
+    <value>Большое изображение</value>
   </data>
   <data name="OpenWith.Text" xml:space="preserve">
-    <value>Open with...</value>
+    <value>Открыть с помощью...</value>
   </data>
   <data name="Share.Text" xml:space="preserve">
-    <value>Share</value>
+    <value>Поделиться</value>
   </data>
   <data name="TranscodingOptions.Text" xml:space="preserve">
-    <value>Transcoding options</value>
+    <value>Настройки конвертации</value>
   </data>
   <data name="ModifyWall.Text" xml:space="preserve">
-    <value>Modify Wall</value>
+    <value>Изменить Стену</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Дистанционное управление</value>
   </data>
 </root>
