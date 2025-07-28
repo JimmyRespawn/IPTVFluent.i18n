@@ -319,7 +319,7 @@
     <value>Подписаться Rub 79</value>
   </data>
   <data name="SubsButtonTipText.Text" xml:space="preserve">
-    <value>Пожалуйста, свяжитесь с застройщиком, эта зона недоступна.</value>
+    <value>Если у вас нет возможности приобрести его, обратитесь к разработчику.</value>
   </data>
   <data name="Subscribed.Text" xml:space="preserve">
     <value>Подписаны</value>
