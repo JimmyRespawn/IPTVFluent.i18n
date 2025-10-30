@@ -805,7 +805,7 @@
     <value>Force refresh</value>
   </data>
   <data name="CacheManagement.Text" xml:space="preserve">
-    <value>Cache Management</value>
+    <value>Cache management</value>
   </data>
   <data name="PlaybackCustomOptions.Text" xml:space="preserve">
     <value>Playback custom options</value>
