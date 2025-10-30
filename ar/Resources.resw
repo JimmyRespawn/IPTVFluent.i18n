@@ -382,7 +382,7 @@
   <data name="TVGuide.Header" xml:space="preserve">
     <value>Failed to load channels</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>تسجيل</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -794,6 +794,45 @@
     <value>تعديل الجدار</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>التحكم عن بعد</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>الإعدادات المتقدمة</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>إعلان</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>تحديث إجباري</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>إدارة ذاكرة التخزين المؤقت</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>خيارات إعادة التشغيل المخصصة</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(بيتا) تحسين للفأرة الهوائية عن بعد لـ HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>تخصيص مرجع التشغيل، الترويسات، وكلاء المستخدم، إلخ.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>تجريبي</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>تغيير عامل المقياس</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>عرف</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>منفذ OLED حرق</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>غدا</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>نافذة جديدة</value>
   </data>
 </root>
