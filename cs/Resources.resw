@@ -382,7 +382,7 @@ nebo vyberte libovolný kanál v kanálech</value>
   <data name="TVGuide.Header" xml:space="preserve">
     <value>TV program</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>Záznam</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -455,7 +455,7 @@ nebo vyberte libovolný kanál v kanálech</value>
     <value>Obnovit nákup</value>
   </data>
   <data name="TutorialHyperlink.Content" xml:space="preserve">
-    <value>How to get M3U link?</value>
+    <value>Jak získat m3u odkaz?</value>
   </data>
   <data name="TheatreMode.Text" xml:space="preserve">
     <value>Divadelní mód</value>
@@ -758,42 +758,81 @@ nebo vyberte libovolný kanál v kanálech</value>
     <value>Média Servery</value>
   </data>
   <data name="EveryMonth.Content" xml:space="preserve">
-    <value>Every month</value>
+    <value>Každý měsíc</value>
   </data>
   <data name="CastAndCrew.Text" xml:space="preserve">
-    <value>Cast and Crew</value>
+    <value>Kuličková pera</value>
   </data>
   <data name="MediaInformation.Text" xml:space="preserve">
-    <value>Media information</value>
+    <value>Informace o médiích</value>
   </data>
   <data name="Episodes.Text" xml:space="preserve">
-    <value>Episodes</value>
+    <value>Díly</value>
   </data>
   <data name="LiveTVText.Text" xml:space="preserve">
     <value>Live TV</value>
   </data>
   <data name="Videos.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>Videa</value>
   </data>
   <data name="Season.Text" xml:space="preserve">
-    <value>Season</value>
+    <value>Série</value>
   </data>
   <data name="BigPictureContent.Content" xml:space="preserve">
-    <value>Big Picture</value>
+    <value>Velký obrázek</value>
   </data>
   <data name="OpenWith.Text" xml:space="preserve">
-    <value>Open with...</value>
+    <value>Otevřít Pomomocí...</value>
   </data>
   <data name="Share.Text" xml:space="preserve">
-    <value>Share</value>
+    <value>Sdílet</value>
   </data>
   <data name="TranscodingOptions.Text" xml:space="preserve">
-    <value>Transcoding options</value>
+    <value>Volby překódování</value>
   </data>
   <data name="ModifyWall.Text" xml:space="preserve">
-    <value>Modify Wall</value>
+    <value>Upravit zeď</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Vzdálené ovládání</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Pokročilá nastavení</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Oznámení</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Vynutit obnovení</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Správa mezipaměti</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Vlastní možnosti přehrávání</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Optimalizace pro vzduchové ovládání myši pro HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Přizpůsobit doporučení pro přehrávání, hlavičky, uživatelského agenta, atd.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Experimentální</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Změnit váhový faktor</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Vlastní</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>Předcházení vypalování OLED</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>Zítra</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Nové okno prohlížeče</value>
   </data>
 </root>
