@@ -382,7 +382,7 @@
   <data name="TVGuide.Header" xml:space="preserve">
     <value>Αποτυχία φόρτωσης καναλιών</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>Εγγραφή</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -455,7 +455,7 @@
     <value>Επαναφορά Αγοράς</value>
   </data>
   <data name="TutorialHyperlink.Content" xml:space="preserve">
-    <value>How to get M3U link?</value>
+    <value>Πώς να πάρετε m3u σύνδεσμο;</value>
   </data>
   <data name="TheatreMode.Text" xml:space="preserve">
     <value>Λειτουργία θεάτρου</value>
@@ -758,22 +758,22 @@
     <value>Διακομιστές πολυμέσων</value>
   </data>
   <data name="EveryMonth.Content" xml:space="preserve">
-    <value>Every month</value>
+    <value>Κάθε μήνα</value>
   </data>
   <data name="CastAndCrew.Text" xml:space="preserve">
-    <value>Cast and Crew</value>
+    <value>Πρωταγωνιστές και πλήρωμα</value>
   </data>
   <data name="MediaInformation.Text" xml:space="preserve">
-    <value>Media information</value>
+    <value>Πληροφορίες πολυμέσων</value>
   </data>
   <data name="Episodes.Text" xml:space="preserve">
-    <value>Episodes</value>
+    <value>Επεισόδια</value>
   </data>
   <data name="LiveTVText.Text" xml:space="preserve">
-    <value>Live TV</value>
+    <value>Ζωντανή τηλεόραση</value>
   </data>
   <data name="Videos.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>Βίντεο</value>
   </data>
   <data name="Season.Text" xml:space="preserve">
     <value>Season</value>
@@ -795,5 +795,44 @@
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
     <value>Remote control</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Advanced Settings</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Announcement</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Force refresh</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Cache Management</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Playback custom options</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Optimize for air mouse remote for HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Customize playback referrer, headers, user-agent, etc.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Experimental</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Change scale factor</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>OLED Burn-in Preventor</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>Tomorrow</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>New Window</value>
   </data>
 </root>
