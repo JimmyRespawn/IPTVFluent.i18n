@@ -383,7 +383,7 @@ sau selectați orice canal din canale</value>
     <value>Nu a reușit încărcarea canalelor</value>
   </data>
   <data name="Record.Text" xml:space="preserve">
-    <value>Record</value>
+    <value>Tranzacţie</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
     <value>Se înregistrează</value>
@@ -455,7 +455,7 @@ sau selectați orice canal din canale</value>
     <value>Restabiliți cumpărare</value>
   </data>
   <data name="TutorialHyperlink.Content" xml:space="preserve">
-    <value>How to get M3U link?</value>
+    <value>Cum să obții legătura m3u?</value>
   </data>
   <data name="TheatreMode.Text" xml:space="preserve">
     <value>Modul teatru</value>
@@ -758,81 +758,81 @@ sau selectați orice canal din canale</value>
     <value>Servere Media</value>
   </data>
   <data name="EveryMonth.Content" xml:space="preserve">
-    <value>Every month</value>
+    <value>În fiecare lună</value>
   </data>
   <data name="CastAndCrew.Text" xml:space="preserve">
-    <value>Cast and Crew</value>
+    <value>Distribuție și echipaj</value>
   </data>
   <data name="MediaInformation.Text" xml:space="preserve">
-    <value>Media information</value>
+    <value>Informatii media</value>
   </data>
   <data name="Episodes.Text" xml:space="preserve">
-    <value>Episodes</value>
+    <value>Episoade</value>
   </data>
   <data name="LiveTVText.Text" xml:space="preserve">
-    <value>Live TV</value>
+    <value>TV Live</value>
   </data>
   <data name="Videos.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>Video-uri</value>
   </data>
   <data name="Season.Text" xml:space="preserve">
-    <value>Season</value>
+    <value>Sezon</value>
   </data>
   <data name="BigPictureContent.Content" xml:space="preserve">
-    <value>Big Picture</value>
+    <value>Imagine mare</value>
   </data>
   <data name="OpenWith.Text" xml:space="preserve">
-    <value>Open with...</value>
+    <value>Deschidere cu...</value>
   </data>
   <data name="Share.Text" xml:space="preserve">
-    <value>Share</value>
+    <value>Distribuie</value>
   </data>
   <data name="TranscodingOptions.Text" xml:space="preserve">
-    <value>Transcoding options</value>
+    <value>Opțiuni de transcodare</value>
   </data>
   <data name="ModifyWall.Text" xml:space="preserve">
-    <value>Modify Wall</value>
+    <value>Modifică Zid</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Control la distanță</value>
   </data>
   <data name="AdvancedSettings.Text" xml:space="preserve">
-    <value>Advanced Settings</value>
+    <value>Setări Avansate</value>
   </data>
   <data name="Announcement.Text" xml:space="preserve">
-    <value>Announcement</value>
+    <value>Anunt</value>
   </data>
   <data name="ForceRefresh.Text" xml:space="preserve">
-    <value>Force refresh</value>
+    <value>Forteaza reimprospatarea</value>
   </data>
   <data name="CacheManagement.Text" xml:space="preserve">
-    <value>Cache Management</value>
+    <value>Management cache</value>
   </data>
   <data name="PlaybackCustomOptions.Text" xml:space="preserve">
-    <value>Playback custom options</value>
+    <value>Opțiuni personalizate pentru redare</value>
   </data>
   <data name="RemoteControlTip.Text" xml:space="preserve">
-    <value>(Beta) Optimize for air mouse remote for HTPC.</value>
+    <value>(Beta) Optimizează pentru aerul mouse-ului îndepărtat pentru HTPC.</value>
   </data>
   <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
-    <value>Customize playback referrer, headers, user-agent, etc.</value>
+    <value>Personalizați referințele, anteturile, agentul de utilizator, etc.</value>
   </data>
   <data name="Experimental.Text" xml:space="preserve">
     <value>Experimental</value>
   </data>
   <data name="ChangeScaleFactor.Text" xml:space="preserve">
-    <value>Change scale factor</value>
+    <value>Schimbă factorul de scală</value>
   </data>
   <data name="Custom.Text" xml:space="preserve">
-    <value>Custom</value>
+    <value>Obicei</value>
   </data>
   <data name="OLEDPreventor.Text" xml:space="preserve">
-    <value>OLED Burn-in Preventor</value>
+    <value>OLED de prevenție arsă</value>
   </data>
   <data name="Tomorrow.Text" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>Mâine</value>
   </data>
   <data name="NewWindow.Text" xml:space="preserve">
-    <value>New Window</value>
+    <value>Fereastră nouă</value>
   </data>
 </root>
