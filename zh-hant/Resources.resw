@@ -142,13 +142,13 @@
     <value>暫不</value>
   </data>
   <data name="BuyingDialog.PrimaryButtonText" xml:space="preserve">
-    <value>￥85 終身版</value>
+    <value>‌NT$399 終身版</value>
   </data>
   <data name="BuyingDialog.SecondaryButtonText" xml:space="preserve">
-    <value>￥7/月</value>
+    <value>NT$33/月</value>
   </data>
   <data name="BuyingDiscount.Text" xml:space="preserve">
-    <value>終身版限時特價￥85</value>
+    <value>終身版限時特價‌NT$199 </value>
   </data>
   <data name="BuyingTip1.Text" xml:space="preserve">
     <value>關閉廣告</value>
@@ -277,7 +277,7 @@
     <value>購買高級版</value>
   </data>
   <data name="PurchaseLifetime.Text" xml:space="preserve">
-    <value>購買￥85</value>
+    <value>購買‌NT$399 </value>
   </data>
   <data name="PurchaseLifetimeTip.Text" xml:space="preserve">
     <value>一次性購買解鎖高級功能</value>
@@ -316,7 +316,7 @@
     <value>讀取中...</value>
   </data>
   <data name="SubsButtonText.Text" xml:space="preserve">
-    <value>訂閱￥7</value>
+    <value>訂閱NT$33</value>
   </data>
   <data name="SubsButtonTipText.Text" xml:space="preserve">
     <value>每月定時消費</value>
