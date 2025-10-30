@@ -382,7 +382,7 @@
   <data name="TVGuide.Header" xml:space="preserve">
     <value>节目单</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>录制</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -795,5 +795,44 @@
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
     <value>遥控器</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>高级设置</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>公告</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>强制刷新</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>缓存管理</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Playback custom options</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Optimize for air mouse remote for HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Customize playback referrer, headers, user-agent, etc.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Experimental</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Change scale factor</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>自定义</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>OLED Burn-in Preventor</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>明天</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>新建窗口</value>
   </data>
 </root>
