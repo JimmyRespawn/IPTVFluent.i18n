@@ -382,7 +382,7 @@
   <data name="TVGuide.Header" xml:space="preserve">
     <value>Не вдалося завантажити канали</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>Запис</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -794,6 +794,45 @@
     <value>Змінити Стіни</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Дистанційне Керування</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Розширені налаштування</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Анонс</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Примусове оновлення</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Управління Кешем</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Користувацькі налаштування відтворення</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Бета) Оптимізувати для віддаленого повітря мишки для HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Налаштувати реферер, заголовки, агент користувача і т. д.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Експериментальний</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Змінити масштаб коефіцієнта</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Користувацьке</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>OLED вигоряння в запобіганні</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>Завтра</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Нове вікно</value>
   </data>
 </root>
