@@ -382,7 +382,7 @@
     <value>Kanalları yüklenemedi</value>
   </data>
   <data name="Record.Text" xml:space="preserve">
-    <value>Record</value>
+    <value>Kayıt</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
     <value>Kayıt</value>
@@ -787,25 +787,25 @@
     <value>Paylaş</value>
   </data>
   <data name="TranscodingOptions.Text" xml:space="preserve">
-    <value>Transcoding options</value>
+    <value>Dönüştürme seçenekleri</value>
   </data>
   <data name="ModifyWall.Text" xml:space="preserve">
     <value>Modify Wall</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Uzaktan kumanda</value>
   </data>
   <data name="AdvancedSettings.Text" xml:space="preserve">
-    <value>Advanced Settings</value>
+    <value>Gelişmiş Ayarlar</value>
   </data>
   <data name="Announcement.Text" xml:space="preserve">
-    <value>Announcement</value>
+    <value>Duyuru</value>
   </data>
   <data name="ForceRefresh.Text" xml:space="preserve">
-    <value>Force refresh</value>
+    <value>Zorla yenile</value>
   </data>
   <data name="CacheManagement.Text" xml:space="preserve">
-    <value>Cache Management</value>
+    <value>Ön Bellek Yönetimi</value>
   </data>
   <data name="PlaybackCustomOptions.Text" xml:space="preserve">
     <value>Playback custom options</value>
@@ -817,21 +817,21 @@
     <value>Customize playback referrer, headers, user-agent, etc.</value>
   </data>
   <data name="Experimental.Text" xml:space="preserve">
-    <value>Experimental</value>
+    <value>Deneysel</value>
   </data>
   <data name="ChangeScaleFactor.Text" xml:space="preserve">
     <value>Change scale factor</value>
   </data>
   <data name="Custom.Text" xml:space="preserve">
-    <value>Custom</value>
+    <value>Görenek</value>
   </data>
   <data name="OLEDPreventor.Text" xml:space="preserve">
     <value>OLED Burn-in Preventor</value>
   </data>
   <data name="Tomorrow.Text" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>Yarın</value>
   </data>
   <data name="NewWindow.Text" xml:space="preserve">
-    <value>New Window</value>
+    <value>Yeni pencere</value>
   </data>
 </root>
