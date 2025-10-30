@@ -127,7 +127,7 @@
     <value>Last ned Musicloud på enheten din.</value>
   </data>
   <data name="AllCBI.Content" xml:space="preserve">
-    <value>All</value>
+    <value>Alle</value>
   </data>
   <data name="Auto.Content" xml:space="preserve">
     <value>Auto</value>
@@ -175,10 +175,10 @@
     <value>Kanal Informasjon</value>
   </data>
   <data name="Channels.Text" xml:space="preserve">
-    <value>Channels</value>
+    <value>Tv</value>
   </data>
   <data name="ChannelsContent.Content" xml:space="preserve">
-    <value>Channels</value>
+    <value>Tv</value>
   </data>
   <data name="ChannelsTip.Text" xml:space="preserve">
     <value>Vennligst skriv inn IPTV-listens URL til venstre</value>
@@ -232,7 +232,7 @@
     <value>Lys</value>
   </data>
   <data name="LiveTV.Content" xml:space="preserve">
-    <value>Live TV</value>
+    <value>Levende TV</value>
   </data>
   <data name="LogoDB.Text" xml:space="preserve">
     <value>Logo laget av</value>
@@ -331,7 +331,7 @@
     <value>Kjøp eller abonnér på pluss funksjonen for å låse opp.</value>
   </data>
   <data name="System.Content" xml:space="preserve">
-    <value>System</value>
+    <value>Systemadministrasjon</value>
   </data>
   <data name="Theme.Text" xml:space="preserve">
     <value>Tema</value>
@@ -370,7 +370,7 @@
     <value>Åpen</value>
   </data>
   <data name="ChannelsHeader.Header" xml:space="preserve">
-    <value>Channels</value>
+    <value>Tv</value>
   </data>
   <data name="EPG.Text" xml:space="preserve">
     <value>Elektronisk programveiledning</value>
@@ -379,10 +379,10 @@
     <value>Inndata xml-url for å hente kanalens kommende serier.</value>
   </data>
   <data name="TVGuide.Header" xml:space="preserve">
-    <value>TV Guide</value>
+    <value>TV-guide</value>
   </data>
   <data name="Record.Text" xml:space="preserve">
-    <value>Record</value>
+    <value>Post</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
     <value>Tar opp</value>
@@ -427,7 +427,7 @@
     <value>Nedlastet</value>
   </data>
   <data name="Downloading" xml:space="preserve">
-    <value>Downloading</value>
+    <value>Nedlasting</value>
   </data>
   <data name="DownloadTipText.Text" xml:space="preserve">
     <value>Last ned elsket kanalliste via OneDrive.</value>
@@ -511,7 +511,7 @@
     <value>Legg til i...</value>
   </data>
   <data name="Explore.Text" xml:space="preserve">
-    <value>Explore</value>
+    <value>Utforsk</value>
   </data>
   <data name="Local.Text" xml:space="preserve">
     <value>Lokal</value>
@@ -541,7 +541,7 @@
     <value>Liste</value>
   </data>
   <data name="OnlineURL.Text" xml:space="preserve">
-    <value>Online URL</value>
+    <value>Nettadresse (URL)</value>
   </data>
   <data name="OnlineURLTip.Text" xml:space="preserve">
     <value>Daglig liste av deg.</value>
@@ -553,7 +553,7 @@
     <value>Hva er i PLUS</value>
   </data>
   <data name="ChannelLabel.Label" xml:space="preserve">
-    <value>Channel</value>
+    <value>Kanal</value>
   </data>
   <data name="EPGLabel.Label" xml:space="preserve">
     <value>EPG</value>
@@ -619,13 +619,13 @@
     <value>Legg til i...</value>
   </data>
   <data name="Programs.Content" xml:space="preserve">
-    <value>Programs</value>
+    <value>Programmer</value>
   </data>
   <data name="Nolocallistfound.Text" xml:space="preserve">
     <value>Ingen lokal liste funnet</value>
   </data>
   <data name="Link.Text" xml:space="preserve">
-    <value>Link</value>
+    <value>Lenke</value>
   </data>
   <data name="EveryDay.Content" xml:space="preserve">
     <value>Hver dag</value>
@@ -637,7 +637,7 @@
     <value>Aldri</value>
   </data>
   <data name="UpdateFrequency.Text" xml:space="preserve">
-    <value>Update frequency</value>
+    <value>Oppdateringsfrekvens</value>
   </data>
   <data name="UpdateFrequencyTip.Text" xml:space="preserve">
     <value>Online liste hente oppførsel.</value>
@@ -646,7 +646,7 @@
     <value>Eksporter</value>
   </data>
   <data name="Edit.Text" xml:space="preserve">
-    <value>Edit</value>
+    <value>Rediger</value>
   </data>
   <data name="More.Text" xml:space="preserve">
     <value>Mer</value>
@@ -688,7 +688,7 @@
     <value>Skriv inn passordet ditt</value>
   </data>
   <data name="All.Text" xml:space="preserve">
-    <value>All</value>
+    <value>Alle</value>
   </data>
   <data name="Today.Text" xml:space="preserve">
     <value>Idag</value>
@@ -769,7 +769,7 @@
     <value>Episoder</value>
   </data>
   <data name="LiveTVText.Text" xml:space="preserve">
-    <value>Live TV</value>
+    <value>Levende TV</value>
   </data>
   <data name="Videos.Text" xml:space="preserve">
     <value>Videoer</value>
@@ -778,7 +778,7 @@
     <value>Sesongen</value>
   </data>
   <data name="BigPictureContent.Content" xml:space="preserve">
-    <value>Big Picture</value>
+    <value>Stort bilde</value>
   </data>
   <data name="OpenWith.Text" xml:space="preserve">
     <value>Åpne med...</value>
@@ -793,43 +793,43 @@
     <value>Endre vegg</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Fjernkontroll</value>
   </data>
   <data name="AdvancedSettings.Text" xml:space="preserve">
-    <value>Advanced Settings</value>
+    <value>Avanserte innstillinger</value>
   </data>
   <data name="Announcement.Text" xml:space="preserve">
-    <value>Announcement</value>
+    <value>Kunngjøringen</value>
   </data>
   <data name="ForceRefresh.Text" xml:space="preserve">
-    <value>Force refresh</value>
+    <value>Tving oppdatering</value>
   </data>
   <data name="CacheManagement.Text" xml:space="preserve">
     <value>Cache Management</value>
   </data>
   <data name="PlaybackCustomOptions.Text" xml:space="preserve">
-    <value>Playback custom options</value>
+    <value>Alternativer for avspilling</value>
   </data>
   <data name="RemoteControlTip.Text" xml:space="preserve">
-    <value>(Beta) Optimize for air mouse remote for HTPC.</value>
+    <value>(Beta) Optimaliser for fjernkontroll til luftmusen.</value>
   </data>
   <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
-    <value>Customize playback referrer, headers, user-agent, etc.</value>
+    <value>Tilpass avspillingsreferanser, overskrifter, brukeragent, osv.</value>
   </data>
   <data name="Experimental.Text" xml:space="preserve">
-    <value>Experimental</value>
+    <value>Eksperimentell</value>
   </data>
   <data name="ChangeScaleFactor.Text" xml:space="preserve">
-    <value>Change scale factor</value>
+    <value>Endre skaleringsfaktor</value>
   </data>
   <data name="Custom.Text" xml:space="preserve">
-    <value>Custom</value>
+    <value>Egendefinert</value>
   </data>
   <data name="OLEDPreventor.Text" xml:space="preserve">
-    <value>OLED Burn-in Preventor</value>
+    <value>OLED Burn-in superventor</value>
   </data>
   <data name="Tomorrow.Text" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>I morgen</value>
   </data>
   <data name="NewWindow.Text" xml:space="preserve">
     <value>New Window</value>
