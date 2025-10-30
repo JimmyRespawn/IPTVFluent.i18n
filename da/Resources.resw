@@ -382,7 +382,7 @@ eller vælg en kanal i kanaler</value>
   <data name="TVGuide.Header" xml:space="preserve">
     <value>TV fører</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>Arkiv</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -455,7 +455,7 @@ eller vælg en kanal i kanaler</value>
     <value>Installer køb</value>
   </data>
   <data name="TutorialHyperlink.Content" xml:space="preserve">
-    <value>How to get M3U link?</value>
+    <value>Hvordan får man m3u link?</value>
   </data>
   <data name="TheatreMode.Text" xml:space="preserve">
     <value>Teatertilstand</value>
@@ -758,42 +758,81 @@ eller vælg en kanal i kanaler</value>
     <value>Medieservere</value>
   </data>
   <data name="EveryMonth.Content" xml:space="preserve">
-    <value>Every month</value>
+    <value>Hver måned</value>
   </data>
   <data name="CastAndCrew.Text" xml:space="preserve">
-    <value>Cast and Crew</value>
+    <value>Støbt og besætning</value>
   </data>
   <data name="MediaInformation.Text" xml:space="preserve">
-    <value>Media information</value>
+    <value>Medie information</value>
   </data>
   <data name="Episodes.Text" xml:space="preserve">
-    <value>Episodes</value>
+    <value>Episoder</value>
   </data>
   <data name="LiveTVText.Text" xml:space="preserve">
-    <value>Live TV</value>
+    <value>Live-TV</value>
   </data>
   <data name="Videos.Text" xml:space="preserve">
-    <value>Videos</value>
+    <value>Video</value>
   </data>
   <data name="Season.Text" xml:space="preserve">
-    <value>Season</value>
+    <value>Sæson</value>
   </data>
   <data name="BigPictureContent.Content" xml:space="preserve">
-    <value>Big Picture</value>
+    <value>Stort Billede</value>
   </data>
   <data name="OpenWith.Text" xml:space="preserve">
-    <value>Open with...</value>
+    <value>Åbn med...</value>
   </data>
   <data name="Share.Text" xml:space="preserve">
     <value>Share</value>
   </data>
   <data name="TranscodingOptions.Text" xml:space="preserve">
-    <value>Transcoding options</value>
+    <value>Omkodningsindstillinger</value>
   </data>
   <data name="ModifyWall.Text" xml:space="preserve">
-    <value>Modify Wall</value>
+    <value>Ændr Væg</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Fjernstyring</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Avancerede indstillinger</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Meddelelse</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Tving opdatering</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Cache Management</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Brugerdefinerede indstillinger for afspilning</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Optimer til air mouse remote til HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Tilpas afspilningsreferrer, headers, brugeragent osv.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Eksperimentel</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Ændre skala faktor</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Brugerdefineret</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>OLED Burn-in Preventor</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>I morgen</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Nyt vindue</value>
   </data>
 </root>
