@@ -382,7 +382,7 @@ of selecteer een kanaal in kanalen</value>
   <data name="TVGuide.Header" xml:space="preserve">
     <value>Fout bij het laden van zenders</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>Record</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -794,6 +794,45 @@ of selecteer een kanaal in kanalen</value>
     <value>Muur aanpassen</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Bediening op afstand</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Geavanceerde instellingen</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Mededeling</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Forceer vernieuwen</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Beheer cache</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Aangepaste opties afspelen</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Optimaliseer voor lucht muis afstandsbediening voor HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Afspeelverwijzing, headers, gebruikers-agent, etc. aanpassen.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Experimenteel</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Schaalfactor wijzigen</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Aangepast</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>OLED inbranden Preventief</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>Morgen</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Nieuw venster</value>
   </data>
 </root>
