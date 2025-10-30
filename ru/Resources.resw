@@ -382,7 +382,7 @@
   <data name="TVGuide.Header" xml:space="preserve">
     <value>Телепрограмма</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>Запись</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -795,5 +795,44 @@
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
     <value>Дистанционное управление</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Дополнительные настройки</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Объявление</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Обновить</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Управление кэшем</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Пользовательские настройки воспроизведения</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Оптимизация для пульта воздушной мыши для HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Настройка реферера воспроизведения, заголовков, агентов пользователя и т. д.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Экспериментальный</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Изменить масштаб фактора</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Обычай</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>Предотвращение выгорания OLED</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>Завтра</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Новое окно</value>
   </data>
 </root>
