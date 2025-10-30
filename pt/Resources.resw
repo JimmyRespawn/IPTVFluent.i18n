@@ -383,7 +383,7 @@ ou selecione qualquer canal nos canais</value>
     <value>Guia de TV</value>
   </data>
   <data name="Record.Text" xml:space="preserve">
-    <value>Record</value>
+    <value>Gravação</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
     <value>Gravação</value>
@@ -794,45 +794,45 @@ ou selecione qualquer canal nos canais</value>
     <value>Modificar parede</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Controlo remoto</value>
   </data>
   <data name="AdvancedSettings.Text" xml:space="preserve">
-    <value>Advanced Settings</value>
+    <value>Configurações avançadas</value>
   </data>
   <data name="Announcement.Text" xml:space="preserve">
-    <value>Announcement</value>
+    <value>Anúncio</value>
   </data>
   <data name="ForceRefresh.Text" xml:space="preserve">
-    <value>Force refresh</value>
+    <value>Forçar Atualização</value>
   </data>
   <data name="CacheManagement.Text" xml:space="preserve">
-    <value>Cache Management</value>
+    <value>Gestão de Cache</value>
   </data>
   <data name="PlaybackCustomOptions.Text" xml:space="preserve">
-    <value>Playback custom options</value>
+    <value>Opções personalizadas de reprodução</value>
   </data>
   <data name="RemoteControlTip.Text" xml:space="preserve">
-    <value>(Beta) Optimize for air mouse remote for HTPC.</value>
+    <value>(Beta) Otimizar o mouse para o controle remoto do HTPC.</value>
   </data>
   <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
-    <value>Customize playback referrer, headers, user-agent, etc.</value>
+    <value>Personalizar referência de reprodução, cabeçalhos, agente de usuário, etc.</value>
   </data>
   <data name="Experimental.Text" xml:space="preserve">
     <value>Experimental</value>
   </data>
   <data name="ChangeScaleFactor.Text" xml:space="preserve">
-    <value>Change scale factor</value>
+    <value>Alterar fator de escala</value>
   </data>
   <data name="Custom.Text" xml:space="preserve">
-    <value>Custom</value>
+    <value>Personalizado</value>
   </data>
   <data name="OLEDPreventor.Text" xml:space="preserve">
-    <value>OLED Burn-in Preventor</value>
+    <value>Pré-ventilador de queima OLED</value>
   </data>
   <data name="Tomorrow.Text" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>Amanhã</value>
   </data>
   <data name="NewWindow.Text" xml:space="preserve">
-    <value>New Window</value>
+    <value>Nova janela</value>
   </data>
 </root>
