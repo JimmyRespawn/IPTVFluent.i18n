@@ -382,8 +382,8 @@
   <data name="TVGuide.Header" xml:space="preserve">
     <value>TVガイド</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
-    <value>記録</value>
+  <data name="Record.Text" xml:space="preserve">
+    <value>Record</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
     <value>録画</value>
@@ -795,5 +795,44 @@
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
     <value>Remote control</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Advanced Settings</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Announcement</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Force refresh</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Cache Management</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Playback custom options</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Optimize for air mouse remote for HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Customize playback referrer, headers, user-agent, etc.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Experimental</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Change scale factor</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Custom</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>OLED Burn-in Preventor</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>Tomorrow</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>New Window</value>
   </data>
 </root>
