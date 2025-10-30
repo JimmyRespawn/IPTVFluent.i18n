@@ -382,7 +382,7 @@ ein oder wähle einen Kanal in den Kanälen aus</value>
   <data name="TVGuide.Header" xml:space="preserve">
     <value>TV Programm</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>Datensatz</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -794,6 +794,45 @@ ein oder wähle einen Kanal in den Kanälen aus</value>
     <value>Wand ändern</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Fernbedienungen</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Erweiterte Einstellungen</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Ankündigung</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Aktualisierung erzwingen</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Cache-Management</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Eigene Wiedergabe Optionen</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Optimieren für die Fernbedienung der Air-Maus für HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Wiedergabeverweiser, Header, User-Agent, etc. anpassen.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Experimentell</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Skalierungsfaktor ändern</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Benutzerdefiniert</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>OLED Burn-In Preventor</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>Morgen</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Neues Fenster</value>
   </data>
 </root>
