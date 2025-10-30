@@ -383,7 +383,7 @@ eller välj någon kanal i kanaler</value>
     <value>Tv Guide</value>
   </data>
   <data name="Record.Text" xml:space="preserve">
-    <value>Record</value>
+    <value>Spela in</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
     <value>Inspelning</value>
@@ -794,45 +794,45 @@ eller välj någon kanal i kanaler</value>
     <value>Ändra vägg</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Fjärrkontroller</value>
   </data>
   <data name="AdvancedSettings.Text" xml:space="preserve">
-    <value>Advanced Settings</value>
+    <value>Avancerade inställningar</value>
   </data>
   <data name="Announcement.Text" xml:space="preserve">
-    <value>Announcement</value>
+    <value>Notis</value>
   </data>
   <data name="ForceRefresh.Text" xml:space="preserve">
-    <value>Force refresh</value>
+    <value>Tvinga uppdatering</value>
   </data>
   <data name="CacheManagement.Text" xml:space="preserve">
-    <value>Cache Management</value>
+    <value>Cache lagringen</value>
   </data>
   <data name="PlaybackCustomOptions.Text" xml:space="preserve">
-    <value>Playback custom options</value>
+    <value>Uppspelning av anpassade alternativ</value>
   </data>
   <data name="RemoteControlTip.Text" xml:space="preserve">
-    <value>(Beta) Optimize for air mouse remote for HTPC.</value>
+    <value>(Beta) Optimera för luftmus fjärrkontroll för HTPC.</value>
   </data>
   <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
-    <value>Customize playback referrer, headers, user-agent, etc.</value>
+    <value>Anpassa uppspelningsreferens, rubriker, användaragent, etc.</value>
   </data>
   <data name="Experimental.Text" xml:space="preserve">
-    <value>Experimental</value>
+    <value>Experimentell</value>
   </data>
   <data name="ChangeScaleFactor.Text" xml:space="preserve">
-    <value>Change scale factor</value>
+    <value>Ändra skalfaktor</value>
   </data>
   <data name="Custom.Text" xml:space="preserve">
-    <value>Custom</value>
+    <value>Anpassad</value>
   </data>
   <data name="OLEDPreventor.Text" xml:space="preserve">
-    <value>OLED Burn-in Preventor</value>
+    <value>OLED Inbränning Förhindra</value>
   </data>
   <data name="Tomorrow.Text" xml:space="preserve">
-    <value>Tomorrow</value>
+    <value>I morgon</value>
   </data>
   <data name="NewWindow.Text" xml:space="preserve">
-    <value>New Window</value>
+    <value>Nytt fönster</value>
   </data>
 </root>
