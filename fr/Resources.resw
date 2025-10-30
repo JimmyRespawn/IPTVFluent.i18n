@@ -382,7 +382,7 @@ ou sélectionner n'importe quelle chaîne dans le panneau "Chaînes"</value>
   <data name="TVGuide.Header" xml:space="preserve">
     <value>Guide TV</value>
   </data>
-  <data name="Record.Content" xml:space="preserve">
+  <data name="Record.Text" xml:space="preserve">
     <value>Enregistrer</value>
   </data>
   <data name="Recording.Content" xml:space="preserve">
@@ -794,6 +794,45 @@ ou sélectionner n'importe quelle chaîne dans le panneau "Chaînes"</value>
     <value>Modifier le Mur</value>
   </data>
   <data name="RemoteControl.Text" xml:space="preserve">
-    <value>Remote control</value>
+    <value>Télécommande</value>
+  </data>
+  <data name="AdvancedSettings.Text" xml:space="preserve">
+    <value>Paramètres avancés</value>
+  </data>
+  <data name="Announcement.Text" xml:space="preserve">
+    <value>Annonce</value>
+  </data>
+  <data name="ForceRefresh.Text" xml:space="preserve">
+    <value>Forcer l'actualisation</value>
+  </data>
+  <data name="CacheManagement.Text" xml:space="preserve">
+    <value>Gestion du cache</value>
+  </data>
+  <data name="PlaybackCustomOptions.Text" xml:space="preserve">
+    <value>Options personnalisées de lecture</value>
+  </data>
+  <data name="RemoteControlTip.Text" xml:space="preserve">
+    <value>(Beta) Optimiser pour la télécommande de souris à air pour HTPC.</value>
+  </data>
+  <data name="PlaybackCustomOptionsTip.Text" xml:space="preserve">
+    <value>Personnaliser le référent de lecture, les en-têtes, l'agent utilisateur, etc.</value>
+  </data>
+  <data name="Experimental.Text" xml:space="preserve">
+    <value>Expérimental</value>
+  </data>
+  <data name="ChangeScaleFactor.Text" xml:space="preserve">
+    <value>Changer le facteur d'échelle</value>
+  </data>
+  <data name="Custom.Text" xml:space="preserve">
+    <value>Personnalisation</value>
+  </data>
+  <data name="OLEDPreventor.Text" xml:space="preserve">
+    <value>Prévention de la combustion OLED</value>
+  </data>
+  <data name="Tomorrow.Text" xml:space="preserve">
+    <value>Demain</value>
+  </data>
+  <data name="NewWindow.Text" xml:space="preserve">
+    <value>Nouvelle fenêtre</value>
   </data>
 </root>
