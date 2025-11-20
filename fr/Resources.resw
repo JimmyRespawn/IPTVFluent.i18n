@@ -835,4 +835,13 @@ ou sélectionner n'importe quelle chaîne dans le panneau "Chaînes"</value>
   <data name="NewWindow.Text" xml:space="preserve">
     <value>Nouvelle fenêtre</value>
   </data>
+  <data name="Archive.Text" xml:space="preserve">
+    <value>Archive</value>
+  </data>
+  <data name="Unarchive.Text" xml:space="preserve">
+    <value>Unarchive</value>
+  </data>
+  <data name="SearchText.PlaceholderText" xml:space="preserve">
+    <value>Search</value>
+  </data>
 </root>
