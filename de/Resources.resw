@@ -835,4 +835,13 @@ ein oder wähle einen Kanal in den Kanälen aus</value>
   <data name="NewWindow.Text" xml:space="preserve">
     <value>Neues Fenster</value>
   </data>
+  <data name="Archive.Text" xml:space="preserve">
+    <value>Archive</value>
+  </data>
+  <data name="Unarchive.Text" xml:space="preserve">
+    <value>Unarchive</value>
+  </data>
+  <data name="SearchText.PlaceholderText" xml:space="preserve">
+    <value>Search</value>
+  </data>
 </root>
